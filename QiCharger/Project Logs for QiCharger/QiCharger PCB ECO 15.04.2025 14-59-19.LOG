@@ -1,0 +1,32 @@
+Added Component: Designator=U1(IC_MSP430FR2522IRHLR)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BQ51013ARHLT/Texas%20Instruments/view-part/134659/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BQ51013ARHLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VQFN-20 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BQ51013ARHLT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BQ51013ARHLT/Texas%20Instruments/view-part/134659/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=AC1 Pin=U1-2
+Added Pin To Net: NetName=BOOT1 Pin=U1-3
+Added Pin To Net: NetName=OUT Pin=U1-4
+Added Pin To Net: NetName=CLAMP1 Pin=U1-5
+Added Pin To Net: NetName=COM1 Pin=U1-6
+Added Pin To Net: NetName=GHG Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=EN1 Pin=U1-10
+Added Pin To Net: NetName=EN2 Pin=U1-11
+Added Pin To Net: NetName=ILIM Pin=U1-12
+Added Pin To Net: NetName=TS/CTRL Pin=U1-13
+Added Pin To Net: NetName=FOD Pin=U1-14
+Added Pin To Net: NetName=COM2 Pin=U1-15
+Added Pin To Net: NetName=CLAMP2 Pin=U1-16
+Added Pin To Net: NetName=BOOT2 Pin=U1-17
+Added Pin To Net: NetName=RECT Pin=U1-18
+Added Pin To Net: NetName=AC2 Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Change Net Name : Old Net Name=NetD1_A New Net Name=A_D1
+Change Net Name : Old Net Name=NetD2_A New Net Name=A_D2
+Added Member To Class: ClassName=QiCharger Member=Component U1 BQ51013ARHLT

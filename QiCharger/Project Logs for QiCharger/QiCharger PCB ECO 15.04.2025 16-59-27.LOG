@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RECT Pin=TP5-1
+Removed Pin From Net: NetName=TS/CTRL Pin=TP7-1
+Removed Member From Class: ClassName=QiCharger Member=TP5
+Removed Member From Class: ClassName=QiCharger Member=TP7

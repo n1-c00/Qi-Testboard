@@ -1,0 +1,273 @@
+Added Component: Designator=C1(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C_SMD_C0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C_SMD_C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C_SMD_C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C_SMD_C0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C_SMD_C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMD_0805_CHIP-LED)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "21-Jun-2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Mar-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Miscellaneous Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMD_0805_CHIP-LED)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "21-Jun-2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Mar-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Miscellaneous Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=L1(PCBComponent_1)
+Added Component: Designator=R1(R_SMD_R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_SMD_R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_SMD_R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_SMD_R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "###"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_SMD_R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "140"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TP_1.25MM)
+Add component (AddParameter): Name = "Published"; Value = "03-Aug-2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Michael Kupfner"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "Only permitted in classes taught by Prof. Michael Kupfner, HTBLVA Anichstrasse"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IC_MSP430FR2522IRHLR
+Added Pin To Net: NetName=AC1 Pin=C1-1
+Added Pin To Net: NetName=AC1 Pin=C2-1
+Added Pin To Net: NetName=AC1 Pin=C3-2
+Added Pin To Net: NetName=AC1 Pin=C5-1
+Added Pin To Net: NetName=AC1 Pin=C6-2
+Added Pin To Net: NetName=AC1 Pin=C8-2
+Added Pin To Net: NetName=AC1 Pin=C9-2
+Added Pin To Net: NetName=AC1 Pin=C10-2
+Added Pin To Net: NetName=AC1 Pin=C11-2
+Added Pin To Net: NetName=AC1 Pin=TP4-1
+Added Net: Name=AC1
+Added Pin To Net: NetName=AC2 Pin=C9-1
+Added Pin To Net: NetName=AC2 Pin=C10-1
+Added Pin To Net: NetName=AC2 Pin=C11-1
+Added Pin To Net: NetName=AC2 Pin=C12-1
+Added Pin To Net: NetName=AC2 Pin=C13-1
+Added Pin To Net: NetName=AC2 Pin=C14-1
+Added Pin To Net: NetName=AC2 Pin=L1-2
+Added Pin To Net: NetName=AC2 Pin=TP6-1
+Added Net: Name=AC2
+Added Pin To Net: NetName=BOOT1 Pin=C5-2
+Added Pin To Net: NetName=BOOT1 Pin=TP3-1
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=BOOT2 Pin=C12-2
+Added Pin To Net: NetName=BOOT2 Pin=TP9-1
+Added Net: Name=BOOT2
+Added Pin To Net: NetName=CLAMP1 Pin=C1-2
+Added Pin To Net: NetName=CLAMP1 Pin=TP11-1
+Added Net: Name=CLAMP1
+Added Pin To Net: NetName=CLAMP2 Pin=C14-2
+Added Pin To Net: NetName=CLAMP2 Pin=TP13-1
+Added Net: Name=CLAMP2
+Added Pin To Net: NetName=COM1 Pin=C2-2
+Added Pin To Net: NetName=COM1 Pin=TP1-1
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=C13-2
+Added Pin To Net: NetName=COM2 Pin=TP10-1
+Added Net: Name=COM2
+Added Pin To Net: NetName=EN1 Pin=TP12-1
+Added Net: Name=EN1
+Added Pin To Net: NetName=EN2 Pin=TP14-1
+Added Net: Name=EN2
+Added Pin To Net: NetName=FOD Pin=R4-1
+Added Pin To Net: NetName=FOD Pin=R5-2
+Added Pin To Net: NetName=FOD Pin=TP17-1
+Added Net: Name=FOD
+Added Pin To Net: NetName=GHG Pin=TP8-1
+Added Net: Name=GHG
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=TP16-1
+Added Net: Name=GND
+Added Pin To Net: NetName=ILIM Pin=R4-2
+Added Pin To Net: NetName=ILIM Pin=TP15-1
+Added Net: Name=ILIM
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C8-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=L1-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=OUT Pin=C4-2
+Added Pin To Net: NetName=OUT Pin=R1-2
+Added Pin To Net: NetName=OUT Pin=R2-2
+Added Pin To Net: NetName=OUT Pin=TP2-1
+Added Net: Name=OUT
+Added Pin To Net: NetName=RECT Pin=C7-1
+Added Pin To Net: NetName=RECT Pin=TP5-1
+Added Net: Name=RECT
+Added Pin To Net: NetName=TS/CTRL Pin=R3-1
+Added Pin To Net: NetName=TS/CTRL Pin=TP7-1
+Added Net: Name=TS/CTRL
+Added Class: Name=QiCharger
+Added Rule: Name=Schematic Supply Nets
