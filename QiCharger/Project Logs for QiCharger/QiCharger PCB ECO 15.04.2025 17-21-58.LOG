@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=QiCharger Member=TP12
+Removed Member From Class: ClassName=QiCharger Member=TP14
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
