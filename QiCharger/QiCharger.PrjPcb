@@ -83,6 +83,151 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQYRNMEK
 
+[Document3]
+DocumentPath=Fab1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Generates pick and place files.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for QiCharger\Pick Place\Generates pick and place files.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Gerber\Gerber Files.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\Gerber Files.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\Gerber Files.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\Gerber Files.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\Gerber Files.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\Gerber Files.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for QiCharger\Gerber\Gerber Files.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NC Drill Files.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for QiCharger\NC Drill\NC Drill Files.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NC Drill Files.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for QiCharger\NC Drill\NC Drill Files.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\NC Drill\NC Drill Files.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for QiCharger\NC Drill\NC Drill Files.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\BOM\Stückliste.csv
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for QiCharger\BOM\Stückliste.csv
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1095,22 +1240,26 @@ PartTypes=0
 Net1=NetName=A_D1|NetColor=$006E6EFF
 Net2=NetName=A_D2|NetColor=$006E6EFF
 Net3=NetName=AC1|NetColor=$00FF6EFF
-Net4=NetName=AC2|NetColor=$00FF6EFF
-Net5=NetName=BOOT1|NetColor=$00FF6EFF
-Net6=NetName=BOOT2|NetColor=$00FF6EFF
-Net7=NetName=CLAMP1|NetColor=$00FF6EFF
-Net8=NetName=CLAMP2|NetColor=$00FF6EFF
-Net9=NetName=COM1|NetColor=$00FF6EFF
-Net10=NetName=COM2|NetColor=$00FF6EFF
-Net11=NetName=EN1|NetColor=clYellow
-Net12=NetName=EN2|NetColor=clYellow
-Net13=NetName=GHG|NetColor=clYellow
-Net14=NetName=GND|NetColor=clGray
-Net15=NetName=NetD1_A|NetColor=$006E6EFF
-Net16=NetName=NetD2_A|NetColor=$006E6EFF
-Net17=NetName=OUT|NetColor=$006E6EFF
-Net18=NetName=RECT|NetColor=clYellow
-Net19=NetName=TS/CTRL|NetColor=clYellow
+Net4=NetName=AC1_1|NetColor=$00FF6EFF
+Net5=NetName=AC2|NetColor=$00FF39BC
+Net6=NetName=BOOT1|NetColor=$00FFFF6E
+Net7=NetName=BOOT2|NetColor=$00FF6E6E
+Net8=NetName=CLAMP1|NetColor=$00FFFF6E
+Net9=NetName=CLAMP2|NetColor=$00FF6E6E
+Net10=NetName=COM1|NetColor=$00FFFF6E
+Net11=NetName=COM2|NetColor=$00FF6E6E
+Net12=NetName=EN1|NetColor=clYellow
+Net13=NetName=EN2|NetColor=clYellow
+Net14=NetName=FOD|NetColor=clYellow
+Net15=NetName=GHG|NetColor=clYellow
+Net16=NetName=GND|NetColor=clGray
+Net17=NetName=ILIM|NetColor=clYellow
+Net18=NetName=NetC3_1|NetColor=clPurple
+Net19=NetName=NetD1_A|NetColor=$006E6EFF
+Net20=NetName=NetD2_A|NetColor=$006E6EFF
+Net21=NetName=OUT|NetColor=$006E6EFF
+Net22=NetName=RECT|NetColor=clYellow
+Net23=NetName=TS/CTRL|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

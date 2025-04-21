@@ -1,0 +1,17 @@
+Designator,Value,Comment,Quantity,Footprint,Description
+
+"L1","","Trace Coil","1","PCBComponent_1","roughly 4uH; trace width of 0.4mm"
+"R3","10k","10k","1","R_SMD_R0402","SMD Resistor"
+"R4","###","###","1","R_SMD_R0402","SMD Resistor"
+"R5","140","140","1","R_SMD_R0402","SMD Resistor"
+"U1","","BQ51013ARHLT","1","IC_MSP430FR2522IRHLR","Integrated Wireless power Receiver Solution, Qi (Wireless power Consortium) Compliant 20-VQFN 0 to 125"
+"C1, C14","0.47uF","0.47uF","2","C_SMD_C0402","SMD Capacitor"
+"C2, C13","47nF","47nF","2","C_SMD_C0402","SMD Capacitor"
+"C3, C11","###","###","2","C_SMD_C0402","SMD Capacitor"
+"C4, C7","4.7uF","4.7uF","2","C_SMD_C0402","SMD Capacitor"
+"C5, C12","10nF","10nF","2","C_SMD_C0402","SMD Capacitor"
+"C6, C10","###","###","2","C_SMD_C0603","SMD Capacitor"
+"C8, C9","###","###","2","C_SMD_C0805","SMD Capacitor"
+"D1, D2","","SMD LED RED","2","SMD_0805_CHIP-LED","Red GaAs LED (Vf=1.7V, If=40mA)"
+"R1, R2","220R","220R","2","R_SMD_R0402","SMD Resistor"
+"R6, R7","0R","0R","2","R_SMD_R0402","SMD Resistor"

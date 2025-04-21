@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [QiCharger.PcbDoc]
+   Generated File[Generates pick and place files.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:43:14 On 16.04.2025

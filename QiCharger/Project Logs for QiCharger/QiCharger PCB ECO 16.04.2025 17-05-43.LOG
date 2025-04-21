@@ -1,0 +1,30 @@
+Change Component Comment : Designator=C4 Old Comment=0.47uF New Comment=4.7uF
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=0R
+Change Component Comment : Designator=R7 Old Comment=10k New Comment=0R
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C_SMD_C0402"; UniqueID = "\ZJUUOJOJ" ("\ZJUUOJOJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R_SMD_R0402"; UniqueID = "\HSLGQNFD" ("\HSLGQNFD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R_SMD_R0402"; UniqueID = "\HQBHEXGY" ("\HQBHEXGY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC3_1 New Net Name=AC1_1
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(188, 57, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)

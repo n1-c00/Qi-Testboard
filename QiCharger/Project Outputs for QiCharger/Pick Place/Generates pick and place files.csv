@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\nicoz\OneDrive - HTL Anichstrasse\Desktop\Projects\QiCharger_Reciever\QiCharger\Project Outputs for QiCharger\Pick Place\Generates pick and place files.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16.04.25
+Time:       19:43
+Revision:   70507e28a4f2ddb929104945da208cd660e400cc
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R7","0R","TopLayer","R_SMD_R0402","442.913","1952.756","90","SMD Resistor"
+"R6","0R","TopLayer","R_SMD_R0402","531.496","1952.756","90","SMD Resistor"
+"U1","BQ51013ARHLT","TopLayer","IC_MSP430FR2522IRHLR","486.024","1781.601","180","Integrated Wireless power Receiver Solution, Qi (Wireless power Consortium) Compliant 20-VQFN 0 to 125"
+"L1","Trace Coil","BottomLayer","PCBComponent_1","667.441","999.055","180","roughly 4uH; trace width of 0.4mm"
+"C4","4.7uF","TopLayer","C_SMD_C0402","852.362","1978.347","180","SMD Capacitor"
+"TP17","TESTPOINT","TopLayer","TP_1.25MM","98.425","1825.743","90","Test Point"
+"TP16","TESTPOINT","TopLayer","TP_1.25MM","98.425","1968.504","90","Test Point"
+"TP15","TESTPOINT","TopLayer","TP_1.25MM","253.783","1967.124","90","Test Point"
+"TP13","TESTPOINT","TopLayer","TP_1.25MM","157.477","1535.436","270","Test Point"
+"TP11","TESTPOINT","TopLayer","TP_1.25MM","774.508","1840.548","90","Test Point"
+"TP10","TESTPOINT","TopLayer","TP_1.25MM","157.480","1437.008","90","Test Point"
+"TP9","TESTPOINT","TopLayer","TP_1.25MM","157.480","1633.858","180","Test Point"
+"TP8","TESTPOINT","TopLayer","TP_1.25MM","629.918","1932.172","0","Test Point"
+"TP6","TESTPOINT","TopLayer","TP_1.25MM","385.827","1543.307","0","Test Point"
+"TP4","TESTPOINT","TopLayer","TP_1.25MM","698.816","1604.328","0","Test Point"
+"TP3","TESTPOINT","TopLayer","TP_1.25MM","682.890","1840.548","0","Test Point"
+"TP2","TESTPOINT","TopLayer","TP_1.25MM","688.973","2047.241","0","Test Point"
+"TP1","TESTPOINT","TopLayer","TP_1.25MM","866.139","1840.548","0","Test Point"
+"R5","140","TopLayer","R_SMD_R0402","182.783","1851.327","270","SMD Resistor"
+"R4","###","TopLayer","R_SMD_R0402","253.793","1854.331","90","SMD Resistor"
+"R3","10k","TopLayer","R_SMD_R0402","324.803","1854.331","90","SMD Resistor"
+"R2","220R","TopLayer","R_SMD_R0402","338.583","2048.438","0","SMD Resistor"
+"R1","220R","TopLayer","R_SMD_R0402","1037.990","2047.244","180","SMD Resistor"
+"D2","SMD LED RED","TopLayer","SMD_0805_CHIP-LED","196.850","2047.244","90","Red GaAs LED (Vf=1.7V, If=40mA)"
+"D1","SMD LED RED","TopLayer","SMD_0805_CHIP-LED","1181.102","2047.244","270","Red GaAs LED (Vf=1.7V, If=40mA)"
+"C14","0.47uF","TopLayer","C_SMD_C0402","270.280","1535.436","180","SMD Capacitor"
+"C13","47nF","TopLayer","C_SMD_C0402","271.654","1464.426","180","SMD Capacitor"
+"C12","10nF","TopLayer","C_SMD_C0402","270.280","1606.446","180","SMD Capacitor"
+"C11","###","TopLayer","C_SMD_C0402","497.136","1614.173","0","SMD Capacitor"
+"C10","###","TopLayer","C_SMD_C0603","494.598","1535.433","0","SMD Capacitor"
+"C9","###","TopLayer","C_SMD_C0805","466.811","1456.693","0","SMD Capacitor"
+"C8","###","TopLayer","C_SMD_C0805","787.402","1501.693","90","SMD Capacitor"
+"C7","4.7uF","TopLayer","C_SMD_C0402","271.654","1677.456","180","SMD Capacitor"
+"C6","###","TopLayer","C_SMD_C0603","708.661","1488.693","90","SMD Capacitor"
+"C5","10nF","TopLayer","C_SMD_C0402","657.193","1728.942","90","SMD Capacitor"
+"C3","###","TopLayer","C_SMD_C0402","629.924","1481.688","90","SMD Capacitor"
+"C2","47nF","TopLayer","C_SMD_C0402","799.213","1730.315","90","SMD Capacitor"
+"C1","0.47uF","TopLayer","C_SMD_C0402","728.203","1730.315","90","SMD Capacitor"
